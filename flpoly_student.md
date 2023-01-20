@@ -4,24 +4,24 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-Test
+- course 1 COP2073
 
-- Course 2
+- Course 2 PHY2048
 
-- Course 3
+- Course 3 Mac2313
 
-- Course 4
+- Course 4 EGN 1007
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Stats 
 
-- Thing 2
+- reading books
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/20
